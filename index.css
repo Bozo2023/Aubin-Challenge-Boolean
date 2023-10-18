@@ -1,0 +1,71 @@
+body{
+  background-image:url("background.jpg");
+  background-size: 1600px;
+}
+.container{
+  width: 800px;
+  height: 650px;
+  margin-left:400px;100px;60px;
+  align-items: center;
+  background-color: black;
+  opacity: 0.6;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-right: 30px
+
+}
+.logo{
+  width: 150px;
+  height: 60px;
+  margin-left: 280px;
+}
+h1{
+  color: lime;
+  margin-left: 130px;
+}
+
+#Prenota{
+  width: 70px;
+  padding-left: 20px;
+  margin-left: 200px;
+  margin-top: 5px;
+}
+#Accendi{
+  width: 80px;
+  padding-left: 10px;
+}
+#fleche{
+
+}
+.rectangle{
+  width: 800px;
+  height: 30px;
+  margin-right:auto;
+  color: green;
+  background:lime;
+}
+nav{
+  color: white;
+
+}
+.rectangle2{
+  width: 300px;
+  height: 20px;
+  margin-right:auto;
+  color: orange;
+  background:orange;
+}
+.rectangle3{
+  width: 500px;
+  height: 20px;
+  margin-right:auto;
+  color: orange;
+  background:lime;
+}
+.rectangle4{
+  width: 60px;
+  height: 20px;
+  margin-right:auto;
+  color: orange;
+  background:crimson;
+}
